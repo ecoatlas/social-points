@@ -1,1 +1,3 @@
 # social-points
+
+Before the Eco Currency and protocol launch, the community was part of an experiment with social points which granted them holdings based on activitities and contributions. Whit the protocol launch these points allowed the community to claim an allocation in the Eco Currency. This is a snapshot of all holders who had Eco Social Points before them being frozen, it was taken on 2022/10/24 at 00:00 UTC, the last day where P2P transactions of social points happen.
